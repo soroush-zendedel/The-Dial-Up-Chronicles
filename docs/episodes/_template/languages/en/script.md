@@ -18,4 +18,4 @@
 
 ### Invitation to contribute
 
-If you would like to help shape this project, you can suggest an improvement in its public GitHub repository. The project page has a short contribution guide; its link is in this episode's description.
+If you have an idea for the project, tell Codex what you would change. Review the edit, then ask Codex to send it in for review. There’s a short guide in this episode's description.

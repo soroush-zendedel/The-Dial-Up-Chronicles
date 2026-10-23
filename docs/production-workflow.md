@@ -23,8 +23,8 @@ Use the outro section in the episode template. Replace the next-episode placehol
 
 Suggested spoken version (adapt freely, and keep the two language versions natural):
 
-> اگر این خاطره چیزی را در شما زنده کرد، پیشنهادتان را در مخزن عمومی گیت‌هاب پروژه ثبت کنید. راهنمای کوتاه مشارکت را در توضیحات قسمت گذاشته‌ایم. قسمت بعد درباره‌ی [موضوع قسمت بعد] است. تا آن شب، مراقب خاطره‌های آنلاین‌تان باشید.
+> اگر این خاطره چیزی را در شما زنده کرد، پیشنهادتان را به Codex بگویید؛ بعد از بررسی تغییر، از او بخواهید آن را برای بررسی به پروژه بفرستد. راهنمای کوتاهش در توضیحات قسمت است. قسمت بعد درباره‌ی [موضوع قسمت بعد] است. تا آن شب، مراقب خاطره‌های آنلاین‌تان باشید.
 
-> If this story brought something back for you, you can leave a suggestion in the project's public GitHub repository. The episode description has a short guide to joining in. Next time, we'll talk about [next episode topic]. Until then, take care of your online memories.
+> If this story brought something back for you, tell Codex what you think could improve the project. After reviewing the change, ask Codex to send it in for review. There’s a short guide in the episode description. Next time, we'll talk about [next episode topic]. Until then, take care of your online memories.
 
 Planning is successful when it removes uncertainty from the next production step. If a document is not helping, simplify it.
