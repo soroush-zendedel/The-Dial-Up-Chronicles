@@ -1,0 +1,134 @@
+:root {
+  color-scheme: light;
+  --paper: #f6f4ee;
+  --surface: #fffefa;
+  --ink: #27302f;
+  --muted: #66716e;
+  --teal: #356b64;
+  --teal-hover: #264f4a;
+  --line: #deded5;
+}
+
+body,
+body::before,
+body > .container {
+  background: var(--paper);
+  color: var(--ink);
+}
+
+body {
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+body > .container {
+  max-width: 1120px;
+  padding-top: 1rem;
+}
+
+.navbar.bg-primary {
+  background-color: #263d3b !important;
+  background-image: none !important;
+  border: 0;
+  box-shadow: 0 2px 10px rgb(29 43 41 / 12%);
+}
+
+.navbar.bg-primary .navbar-brand,
+.navbar.bg-primary .nav-link,
+.navbar.bg-primary .navbar-toggler {
+  color: #f7f5ef;
+}
+
+.navbar.bg-primary .nav-link:hover,
+.navbar.bg-primary .nav-link:focus,
+.navbar.bg-primary .navbar-brand:hover {
+  color: #d6c29a;
+}
+
+.navbar.bg-primary .dropdown-menu,
+.navbar.bg-primary .dropdown-menu .dropdown-menu {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  box-shadow: 0 8px 24px rgb(39 48 47 / 12%);
+}
+
+.navbar.bg-primary .dropdown-item {
+  color: var(--ink);
+}
+
+.navbar.bg-primary .dropdown-item:hover,
+.navbar.bg-primary .dropdown-item:focus {
+  background: #edf2ef;
+  color: var(--teal-hover);
+}
+
+.bs-sidebar.card {
+  background: var(--surface);
+  border: 1px solid var(--line);
+  border-radius: 8px;
+  box-shadow: 0 3px 12px rgb(39 48 47 / 5%);
+}
+
+.bs-sidebar .navbar-brand,
+.bs-sidebar .nav > li > a {
+  color: var(--ink);
+}
+
+.bs-sidebar .nav > li > a.active,
+.bs-sidebar .nav > li > a:hover,
+.bs-sidebar .nav > li > a:focus {
+  color: var(--teal);
+  border-color: var(--teal);
+}
+
+.col-md-9 {
+  max-width: 820px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--ink);
+  line-height: 1.3;
+}
+
+h1 {
+  font-size: clamp(2rem, 4vw, 2.7rem);
+  margin-bottom: .6em;
+}
+
+h2, h3 {
+  font-weight: 500;
+}
+
+a,
+a:hover,
+a:focus {
+  color: var(--teal);
+}
+
+a:hover,
+a:focus {
+  color: var(--teal-hover);
+}
+
+p, li, td, th {
+  color: var(--ink);
+}
+
+hr, table, th, td {
+  border-color: var(--line);
+}
+
+pre, code, input, select, textarea {
+  background: var(--surface);
+  color: var(--ink);
+  border-color: var(--line);
+}
+
+blockquote {
+  border-left-color: var(--teal);
+  color: var(--muted);
+}
+
+footer {
+  color: var(--muted);
+}

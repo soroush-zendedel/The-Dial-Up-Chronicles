@@ -64,4 +64,4 @@ exclude_docs: |
 # Navigation is grouped by how listeners and producers use the material.
 
 extra_css:
-  - stylesheets/night.css
+  - stylesheets/site.css
