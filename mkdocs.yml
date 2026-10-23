@@ -13,6 +13,7 @@ nav:
       - Charter: project-charter.md
       - Editorial guide: editorial-guidelines.md
       - Production workflow: production-workflow.md
+      - Contributing to the project: contributing.md
       - Visual identity: visual-identity.md
       - Planning:
           - Roadmap: planning/roadmap.md

@@ -11,4 +11,20 @@ Use the episode checklist as the working status record. Skip or remove steps tha
 7. **Publish:** Publish the Persian and English videos in separate language-specific YouTube podcast playlists. Record each release date and link in the episode brief. RSS is not required for manual video uploads.
 8. **Learn:** After the bilingual pilot, review audience response and the extra production effort before deciding whether to continue regular English releases.
 
+## Episode ending
+
+End each episode with three short beats, aiming for about 30 seconds total:
+
+1. A final reflection that lets the story settle.
+2. A one-sentence preview of the next episode, without giving away its central turn.
+3. A brief, consistent invitation to suggest improvements to the public project. Point listeners to the [contribution guide](contributing.md) for the full instructions; do not explain GitHub or Codex in detail in every episode.
+
+Use the outro section in the episode template. Replace the next-episode placeholder only when its topic is known. If a beat does not fit an episode, keep the ending natural and short.
+
+Suggested spoken version (adapt freely, and keep the two language versions natural):
+
+> اگر این خاطره چیزی را در شما زنده کرد، پیشنهادتان را در مخزن عمومی گیت‌هاب پروژه ثبت کنید. راهنمای کوتاه مشارکت را در توضیحات قسمت گذاشته‌ایم. قسمت بعد درباره‌ی [موضوع قسمت بعد] است. تا آن شب، مراقب خاطره‌های آنلاین‌تان باشید.
+
+> If this story brought something back for you, you can leave a suggestion in the project's public GitHub repository. The episode description has a short guide to joining in. Next time, we'll talk about [next episode topic]. Until then, take care of your online memories.
+
 Planning is successful when it removes uncertainty from the next production step. If a document is not helping, simplify it.

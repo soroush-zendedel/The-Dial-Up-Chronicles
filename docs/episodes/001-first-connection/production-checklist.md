@@ -15,10 +15,12 @@ Use this as the only detailed status list for the episode. Keep tasks small and 
 - [ ] Record narration.
 - [ ] Edit and review the episode.
 - [ ] Check names, facts, translation, and asset rights.
+- [ ] Write a short ending with a final reflection, next-episode preview, and contribution invitation (about 30 seconds total).
 
 ## Release
 
 - [ ] Prepare cover, description, and captions if needed.
+- [ ] Add the [contribution guide](../../contributing.md) link to the video description.
 - [ ] Approve the final export.
 - [ ] Publish and add date/link to `episode-brief.md`.
 

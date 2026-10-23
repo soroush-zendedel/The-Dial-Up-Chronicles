@@ -10,6 +10,7 @@ The Markdown source is published as a website with MkDocs and GitHub Pages: [ope
 
 - Site home source: [docs/index.md](docs/index.md)
 - Local preview and publishing guide: [docs/site-publishing.md](docs/site-publishing.md)
+- Contribution guide: [docs/contributing.md](docs/contributing.md)
 
 ## Project structure
 

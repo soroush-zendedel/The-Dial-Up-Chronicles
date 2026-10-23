@@ -13,7 +13,8 @@ Personal memory, digital archaeology, and the search for connection.
 ### Explore
 
 - [Project charter](project-charter.md) · [Production workflow](production-workflow.md)
-- [Series roadmap](planning/roadmap.md) · [Episode library](episodes/README.md)
+- [Contribute to the project](contributing.md) · [Series roadmap](planning/roadmap.md)
+- [Episode library](episodes/README.md)
 - [Production library](audio-rights-policy.md) · [Music prompts](prompts/music-generation.md) · [Sound prompts](prompts/sound-generation.md)
 
 Persian is the spoken language; each episode keeps its Persian and English texts in separate files. The site is generated from this project’s Markdown documents.
