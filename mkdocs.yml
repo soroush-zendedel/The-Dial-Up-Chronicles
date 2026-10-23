@@ -20,6 +20,7 @@ nav:
           - Backlog: planning/backlog.md
           - Release calendar: planning/release-calendar.md
       - Decisions: decisions/0001-repository-structure.md
+      - Language release decision: decisions/0002-bilingual-release.md
       - Publishing this site: site-publishing.md
   - Episodes:
       - Episode library: episodes/README.md

@@ -3,10 +3,15 @@
 - **ID:** 001
 - **Working title:** First Connection: Yahoo Chat Rooms and Zabol
 - **Status:** Planning
-- **Primary language:** Persian
-- **Other language versions:** English
+- **Source language:** Persian
+- **Release versions:** Persian and English (pilot test; publish separately)
 - **Target release:** TBD
-- **Release link:** TBD
+- **Persian release link:** TBD
+- **English release link:** TBD
+
+## Language and release plan
+
+Write and revise the Persian script first. Adapt it into natural spoken English after the source script is stable. Record and edit the two versions separately, using the same visual material where it fits and aligning each edit to its narration. Publish the versions in separate YouTube podcast playlists. After the pilot, review audience response and the extra production effort before planning a regular English schedule.
 
 ## One-sentence premise
 

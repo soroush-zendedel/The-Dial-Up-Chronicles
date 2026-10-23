@@ -13,7 +13,9 @@ Each episode starts from a vivid human experience, uses technology and historica
 - Calm, reflective solo narration with deliberate pacing.
 - Web archives and early online spaces may provide visual texture for video versions.
 - The voice stays central. Dial-up, keyboard, and messenger sounds are subtle ambience, not spectacle.
-- The project is Persian-first, with a separate English translation for each episode. Other languages may be added later when useful.
+- Persian is the source language for writing. Once a Persian script is stable, create a separate English adaptation for natural spoken delivery; it should preserve the story and voice, not translate word for word.
+- The pilot will be released in both Persian and English as a limited test. Keep each language's recording and video edit separate, and place each version in its own YouTube podcast playlist so listeners do not encounter an episode in an unexpected language.
+- Review audience response and the added production effort after the pilot before committing to regular English releases. Other languages can be considered later when there is a concrete need.
 
 ## Audience
 

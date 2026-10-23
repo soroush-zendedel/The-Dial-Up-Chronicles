@@ -32,7 +32,7 @@ docs/
 └── prompts/                          # Versioned music, sound, and cover prompts
 ```
 
-Each episode keeps its language versions separately under `languages/fa/` and `languages/en/`. Add another language in its own folder when there is a concrete need. The episode checklist is the single detailed status tracker.
+Persian is the source language for writing. Once it is stable, adapt it into natural spoken English. Keep each language's script, recording, and video edit separate; publish language versions in separate YouTube podcast playlists. The pilot will test both languages before a regular English schedule is decided. Episode files remain under `languages/fa/` and `languages/en/`. The episode checklist is the single detailed status tracker.
 
 ## Work on the site locally
 
