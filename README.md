@@ -6,7 +6,7 @@ The project follows one practical rule: **planning should make production easier
 
 ## Podcast site
 
-The Markdown source is published as a website with MkDocs and GitHub Pages. Once Pages is enabled, open the site from the repository's **Settings → Pages** page.
+The Markdown source is published as a website with MkDocs and GitHub Pages: [open the live podcast site](https://soroush-zendedel.github.io/The-Dial-Up-Chronicles/).
 
 - Site home source: [docs/index.md](docs/index.md)
 - Local preview and publishing guide: [docs/site-publishing.md](docs/site-publishing.md)

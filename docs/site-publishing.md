@@ -25,7 +25,7 @@ The generated site is written to `site/`, which is ignored by Git.
 
 The workflow in `.github/workflows/publish-site.yml` builds and deploys the site when changes are pushed to `main` or `master`, and can also be run manually. In the repository's GitHub Pages settings, set **Build and deployment → Source** to **GitHub Actions**.
 
-The repository must exist on GitHub and Pages must be available for it. Project sites are normally served under the repository path, for example `https://ACCOUNT.github.io/REPOSITORY/`. MkDocs generates internal links relative to the site root, so the repository owner and final GitHub URL do not need to be hard-coded in the source.
+The repository must exist on GitHub and Pages must be available for it. The live URL is set as `site_url` in `mkdocs.yml`, which lets MkDocs generate the correct canonical links for this project site.
 
 ## Public content
 
