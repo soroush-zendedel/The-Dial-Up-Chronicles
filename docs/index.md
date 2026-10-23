@@ -1,25 +1,19 @@
 # The Dial-Up Chronicles | خاطراتِ اتصال
 
-## The human history of the web, remembered from Zabol
+## A nocturnal documentary about the human history of the web, remembered from Zabol.
 
-A nocturnal documentary podcast about early online life, the search for connection, and the curiosity that grows from it.
+Personal memory, digital archaeology, and the search for connection.
 
-The series follows the web through personal memory and careful research. Technology sets the scene; people and the choices they make stay at the center.
+### The pilot · 001
 
-## Start listening to the story
+**The first connection** follows a young person in Zabol into Yahoo chat rooms, where the desire to belong opened an unexpected path to learning.
 
-The pilot begins with a young person in Zabol entering Yahoo chat rooms and learning how shared interests can open a conversation. Its working question is: **How did the desire to connect shape what a young person chose to learn?**
+[Episode overview](episodes/001-first-connection/episode-brief.md) · [Persian script](episodes/001-first-connection/languages/fa/script.md) · [English script](episodes/001-first-connection/languages/en/script.md)
 
-Read the [pilot brief](episodes/001-first-connection/episode-brief.md), its [Persian script](episodes/001-first-connection/languages/fa/script.md), and its [English version](episodes/001-first-connection/languages/en/script.md).
+### Explore
 
-## Explore the project
+- [Project charter](project-charter.md) · [Production workflow](production-workflow.md)
+- [Series roadmap](planning/roadmap.md) · [Episode library](episodes/README.md)
+- [Production library](audio-rights-policy.md) · [Music prompts](prompts/music-generation.md) · [Sound prompts](prompts/sound-generation.md)
 
-Use the navigation or search to browse episode notes, scripts, research, production plans, sound and visual prompts, and project documentation. Episode content is kept in Markdown in this repository and rendered here by MkDocs.
-
-## Languages
-
-Persian is the planned spoken language. Each episode keeps Persian and English texts in separate files. Further languages can be added as separate folders when needed.
-
-## About this site
-
-This site is generated from the repository's Markdown files with MkDocs. The episode starter template is excluded from the published site; copied episode folders are included automatically.
+Persian is the spoken language; each episode keeps its Persian and English texts in separate files. The site is generated from this project’s Markdown documents.

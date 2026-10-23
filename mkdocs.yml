@@ -7,6 +7,49 @@ site_dir: site
 theme:
   name: mkdocs
 
+nav:
+  - Home: index.md
+  - Project:
+      - Charter: project-charter.md
+      - Editorial guide: editorial-guidelines.md
+      - Production workflow: production-workflow.md
+      - Visual identity: visual-identity.md
+      - Planning:
+          - Roadmap: planning/roadmap.md
+          - Series arc: planning/series-arc.md
+          - Backlog: planning/backlog.md
+          - Release calendar: planning/release-calendar.md
+      - Decisions: decisions/0001-repository-structure.md
+      - Publishing this site: site-publishing.md
+  - Episodes:
+      - Episode library: episodes/README.md
+      - Pilot · 001:
+          - Episode workspace: episodes/001-first-connection/README.md
+          - Overview: episodes/001-first-connection/episode-brief.md
+          - Persian script: episodes/001-first-connection/languages/fa/script.md
+          - English script: episodes/001-first-connection/languages/en/script.md
+          - Translation notes:
+              - Persian: episodes/001-first-connection/languages/fa/translation-notes.md
+              - English: episodes/001-first-connection/languages/en/translation-notes.md
+          - Research and sources: episodes/001-first-connection/research-and-sources.md
+          - Production checklist: episodes/001-first-connection/production-checklist.md
+          - Audio cues: episodes/001-first-connection/audio/audio-cue-sheet.md
+          - Visual plan: episodes/001-first-connection/visuals/visual-plan.md
+          - Cover art prompt: episodes/001-first-connection/visuals/cover-art-prompt.md
+  - Production library:
+      - Audio rights policy: audio-rights-policy.md
+      - Prompts:
+          - Prompt library: prompts/README.md
+          - Music generation: prompts/music-generation.md
+          - Sound generation: prompts/sound-generation.md
+          - Cover art: prompts/cover-art.md
+          - Prompt record template: assets/templates/prompt-record.md
+      - Assets:
+          - Branding: assets/branding/README.md
+          - Music: assets/music/README.md
+          - Theme music: assets/music/theme/README.md
+          - Sound effects: assets/sound-effects/README.md
+
 markdown_extensions:
   - tables
   - toc:
@@ -18,8 +61,7 @@ exclude_docs: |
   /site/**
   /episodes/_template/**
 
-# Navigation is generated from Markdown paths so new episodes appear without
-# editing a second navigation file. The episode template is excluded above.
+# Navigation is grouped by how listeners and producers use the material.
 
 extra_css:
   - stylesheets/night.css
