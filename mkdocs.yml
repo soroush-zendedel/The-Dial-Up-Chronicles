@@ -1,0 +1,24 @@
+site_name: The Dial-Up Chronicles | خاطراتِ اتصال
+site_description: A nocturnal documentary podcast about personal memories and the human history of the web.
+docs_dir: docs
+site_dir: site
+
+theme:
+  name: mkdocs
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+exclude_docs: |
+  /site/**
+  /episodes/_template/**
+
+# Navigation is generated from Markdown paths so new episodes appear without
+# editing a second navigation file. The episode template is excluded above.
+
+extra_css:
+  - stylesheets/night.css

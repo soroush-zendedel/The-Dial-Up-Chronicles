@@ -1,0 +1,17 @@
+# Video exports
+*.mp4
+*.mov
+*.mkv
+
+# Temporary production files
+*.tmp
+*.bak
+*.autosave
+._*
+.DS_Store
+Thumbs.db
+
+# Local working folders
+/working/
+/exports/
+/site/

@@ -1,0 +1,68 @@
+:root {
+  color-scheme: dark;
+  --body-bg: #11151b;
+  --panel-bg: #191f27;
+  --text: #e6e8eb;
+  --muted: #a9b1bb;
+  --link: #89c7d6;
+  --line: #303a45;
+}
+
+body,
+.navbar-default,
+.navbar-default .navbar-collapse,
+.navbar-default .navbar-form,
+.well,
+.col-md-3,
+.col-md-9 {
+  background-color: var(--body-bg);
+  color: var(--text);
+}
+
+.navbar-default {
+  border-color: var(--line);
+}
+
+.navbar-default .navbar-brand,
+.navbar-default .navbar-nav > li > a,
+h1, h2, h3, h4, h5, h6,
+label {
+  color: var(--text);
+}
+
+a,
+a:hover,
+a:focus {
+  color: var(--link);
+}
+
+p, li, td, th {
+  color: var(--text);
+}
+
+hr,
+table,
+th,
+td {
+  border-color: var(--line);
+}
+
+pre,
+code {
+  background-color: var(--panel-bg);
+  color: var(--text);
+  border-color: var(--line);
+}
+
+blockquote {
+  border-left-color: var(--link);
+  color: var(--muted);
+}
+
+input,
+select,
+textarea {
+  background-color: var(--panel-bg);
+  color: var(--text);
+  border-color: var(--line);
+}
