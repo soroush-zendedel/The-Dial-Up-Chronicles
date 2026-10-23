@@ -66,4 +66,4 @@ exclude_docs: |
 # Navigation is grouped by how listeners and producers use the material.
 
 extra_css:
-  - stylesheets/site.css
+  - stylesheets/site-responsive.css
