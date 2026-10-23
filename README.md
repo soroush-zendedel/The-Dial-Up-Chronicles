@@ -14,6 +14,8 @@ The Markdown source is published as a website with MkDocs and GitHub Pages: [ope
 
 ## Project structure
 
+Codex reads the repository guidance in [AGENTS.md](AGENTS.md) when working here. It describes how to create episodes, maintain the site, and handle commits and publishing requests.
+
 All authored project content lives under `docs/` so MkDocs can render it directly. There is one source file for each piece of content; the site does not maintain duplicate copies.
 
 ```text
