@@ -21,6 +21,7 @@ main {
 }
 
 .navbar.bg-primary {
+  background-color: #171d25 !important;
   border-bottom: 1px solid var(--line);
   box-shadow: 0 3px 14px rgb(0 0 0 / 22%);
 }
